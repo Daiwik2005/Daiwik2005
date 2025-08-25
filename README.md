@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm xyz</h1>
+<h1 align="center">Hi 👋, I'm Daiwik Palavarapu</h1>
 <h3 align="center">A curious builder passionate about tech — creating, learning, and making a difference 😊</h3>
 
 - 🌱 Currently exploring **everything I can get my hands on** 🚀  
@@ -12,5 +12,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daiwik2005&show_icons=true&locale=en&layout=compact" alt="daiwik2005" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daiwik2005&show_icons=true&locale=en" alt="daiwik2005" /></p>
+
 
