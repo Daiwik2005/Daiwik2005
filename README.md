@@ -7,7 +7,7 @@
 
 <h5 align="left">Connect with me:</h5>
 <p align="left">
-<a href="www.linkedin.com/in/daiwik-palavarapu-03267828b" target="_blank">
+<a href="https://www.linkedin.com/in/daiwik-palavarapu-03267828b/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 </p>
