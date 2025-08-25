@@ -7,7 +7,7 @@
 
 <h5 align="left">Connect with me:</h5>
 <p align="left">
-<a href="https://linkedin.com/in/daiwik palavarapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daiwik palavarapu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/daiwik-palavarapu-03267828b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/daiwik-palavarapu-03267828b" height="30" width="40" /></a>
 </p>
 
 <br>
