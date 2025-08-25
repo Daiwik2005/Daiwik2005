@@ -13,13 +13,16 @@
 </p>
 
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daiwik2005&show_icons=true&locale=en&layout=compact" alt="daiwik2005" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=da&show_icons=true&locale=en&layout=compact" alt="xyz" />
+</p>
+
+<br clear="all" />
 
 ---
-<br>
+
 <div align="center">
-<br>
-
-<h4>🚧 This profile is under construction — updating to bring out the best! 🚀</h4>
-
+  <h4>🚧 This profile is under construction — updating to bring out the best! 🚀</h4>
 </div>
+
+
