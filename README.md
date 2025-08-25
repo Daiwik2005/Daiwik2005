@@ -14,7 +14,7 @@
 
 <br>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=da&show_icons=true&locale=en&layout=compact" alt="xyz" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daiwik2005&show_icons=true&locale=en&layout=compact" alt="daiwik2005" />
 </p>
 
 <br clear="all" />
