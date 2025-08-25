@@ -10,7 +10,9 @@
 <a href="https://linkedin.com/in/daiwik palavarapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daiwik palavarapu" height="30" width="40" /></a>
 </p>
 
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daiwik2005&show_icons=true&locale=en&layout=compact" alt="daiwik2005" /></p>
 
 
 
+<h4 align="center">🚧 This profile is under construction — updating to bring out the best! 🚀</h4>
