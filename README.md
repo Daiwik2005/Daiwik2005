@@ -1,2 +1,16 @@
-# Daiwik
-Best about me!
+<h1 align="center">Hi 👋, I'm xyz</h1>
+<h3 align="center">A curious builder passionate about tech — creating, learning, and making a difference 😊</h3>
+
+- 🌱 Currently exploring **everything I can get my hands on** 🚀  
+- 📫 Reach me at **DaiwikPalavarapu755@gmail.com**  
+- ⚡ Fun fact: **I love my name — it’s what makes me stand out ✨**  
+
+<h5 align="left">Connect with me:</h5>
+<p align="left">
+<a href="https://linkedin.com/in/daiwik palavarapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daiwik palavarapu" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daiwik2005&show_icons=true&locale=en&layout=compact" alt="daiwik2005" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daiwik2005&show_icons=true&locale=en" alt="daiwik2005" /></p>
+
