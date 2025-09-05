@@ -1,5 +1,5 @@
-# 💫 About Me:
-A curious builder passionate about tech — creating, learning, and making a difference 😊<br>🌱 Currently exploring everything I can get my hands on 🚀<br>📫 Reach me at DaiwikPalavarapu755@gmail.com<br>⚡ Fun fact: I love my name — it’s what makes me stand out ✨
+#                                                                                               Daiwik Palavarapu
+A curious builder passionate about tech — creating, learning, and making a difference 😊<br>🌱 Currently exploring everything I can get my hands on 🚀<br>⚡ Fun fact: I love my name — it’s what makes me stand out ✨
 
 
 ## 🌐 Socials:
