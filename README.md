@@ -1,5 +1,34 @@
-#                                                                                               Daiwik Palavarapu
-A curious builder passionate about tech — creating, learning, and making a difference 😊<br>🌱 Currently exploring everything I can get my hands on 🚀<br>⚡ Fun fact: I love my name — it’s what makes me stand out ✨
+# <span style="font-weight:bold; animation: flash 1s infinite;">Daiwik Palavarapu</span>
+<p>
+A curious builder passionate about <b style="color:#ff5733;">tech</b> — creating, learning, and making a difference 😊
+</p>
+<p>
+🌱 Currently exploring <b style="color:#33c1ff;">everything</b> I can get my hands on 🚀
+</p>
+<p>
+⚡ Fun fact: I love my <b style="font-weight:bold; animation: rainbow 2s infinite;">name</b> — it’s what makes me stand out ✨
+</p>
+
+<style>
+@keyframes rainbow {
+  0% {color: red;}
+  14% {color: orange;}
+  28% {color: yellow;}
+  42% {color: green;}
+  56% {color: blue;}
+  70% {color: indigo;}
+  84% {color: violet;}
+  100% {color: red;}
+}
+</style>
+
+<style>
+@keyframes flash {
+  0%, 50%, 100% { color: #ff0000; } /* red */
+  25%, 75% { color: #0000ff; }      /* blue */
+}
+</style>
+
 
 
 ## 🌐 Socials:
