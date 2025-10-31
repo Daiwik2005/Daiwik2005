@@ -17,4 +17,4 @@ A curious builder passionate about **tech** — creating, learning, and making a
 ![](https://nirzak-streak-stats.vercel.app/?user=Daiwik2005&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Daiwik2005&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2>This profile is still under construction!!! come back later!</h2>
