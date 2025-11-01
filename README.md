@@ -5,7 +5,7 @@ A curious builder passionate about **tech** — creating, learning, and making a
 ⚡ Fun fact: I love my **name** — it’s what makes me stand out ✨
 
 ## 🧩 Proof of Work
-[View Demo](https://www.notion.so/Daiwik-Palavarapu-Developer-Portfolio-29efecaee74580008bddd16d11ec32b7?source=copy_link)
+[View Demo]([https://www.notion.so/Daiwik-Palavarapu-Developer-Portfolio-29efecaee74580008bddd16d11ec32b7?source=copy_link](https://mango-match-ec1.notion.site/Daiwik-Palavarapu-Developer-Portfolio-29efecaee74580008bddd16d11ec32b7?source=copy_link))
 
 
 
