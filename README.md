@@ -4,6 +4,8 @@ A curious builder passionate about **tech** — creating, learning, and making a
 🌱 Currently exploring **everything** I can get my hands on 🚀  
 ⚡ Fun fact: I love my **name** — it’s what makes me stand out ✨
 
+**Proof of work** - [![Proof of Work](https://www.notion.so/Daiwik-Palavarapu-Developer-Portfolio-29efecaee74580008bddd16d11ec32b7?source=copy_link)
+
 
 
 
